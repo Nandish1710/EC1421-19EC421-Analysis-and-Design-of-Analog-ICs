@@ -19,21 +19,16 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM:
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/98ec6f02-56bb-4516-b14f-6527e25b019b" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/4f2cf74e-a88f-4772-b202-8e785ab175cf" />
 
 ## MODEL GRAPH:
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/23c0bcdd-45c7-4fb5-af79-91f219c5bcab" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/0c85459b-5b10-44e6-9f4b-f4733098163d" />
 
 ## PROCEDURE:
-Differential amplifier  
-1. Select the value of R1, R2, R3 & Rf such that R1=R2 and R3=Rf.
-2. Connect the circuit as per as the circuit diagram.
-3. Provide constant input voltage Vin1 to Non-inverting terminal of op-amp through R1 & constant input voltage Vin2 to inverting terminal of op-amp through R2.
- Measure the output voltage using DSO.
-5. Calculate the theoretical Vo and compare it with practical Vo.
-6. Practical output & theoretical calculation should be approximately equal.
-7. Plot the graph of the input wave versus output wave for any one practical case.
-   
+1. Connections are given as per the circuit diagram
+2. + Vcc and - Vcc supply is given to the power supply terminal of the Op-Amp IC.
+3. By adjusting the amplitude and frequency knobs of the function generator, appropriate input voltage is applied to the inverting input terminal of the Op- Amp.
+4. The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 ### Differentiator:
 1. Connections are given as per the circuit diagram
 2. + Vcc and - Vcc supply is given to the power supply terminal of the Op-Amp IC.
@@ -44,13 +39,10 @@ Differential amplifier
 <img width="837" height="443" alt="image" src="https://github.com/user-attachments/assets/fee44ef4-8ae5-4b7a-938e-927c4492992e" />
 
 ## TABULATION:
-<img width="1280" height="598" alt="image" src="https://github.com/user-attachments/assets/606ce394-5981-46e7-aec3-b06f355217a7" />
-
-## CALCULATIONS:
-<img width="1280" height="894" alt="image" src="https://github.com/user-attachments/assets/e072c45c-81e2-44e3-94e0-2d73fced0a29" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/7ad47b8b-cd62-4b50-b016-16a738a2d18c" />
 
 ## GRAPH:
-<img width="1143" height="1280" alt="image" src="https://github.com/user-attachments/assets/bed8b64b-1bae-417b-b35d-4a81feecba33" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/6d1741ea-cba6-44ba-8895-4e1555df16b7" />
 
 ## RESULT:
 Thus the Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
