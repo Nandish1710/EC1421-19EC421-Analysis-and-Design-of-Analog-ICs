@@ -1,4 +1,4 @@
-# EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
+ # EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
 # DESIGN OF ACTIVE LOW PASS,HIGH PASS AND BAND PASS FILTERS USING OP-AMP 
 
 ## AIM: 
@@ -36,13 +36,24 @@ band pass filter depends on the order of high pass and low pass sections.
 
 ## CIRCUIT DIAGRAM: 
 ## LOW_PASS
+<img width="1190" height="754" alt="image" src="https://github.com/user-attachments/assets/6824dac4-ec75-4d05-89e0-ec0d5066f037" />
 ## HIGH-PASS
+<img width="1251" height="724" alt="image" src="https://github.com/user-attachments/assets/79ddad5d-3246-4278-a16b-ef219c5b06d5" />
+
 ## BAND-PASS
+<img width="1280" height="741" alt="image" src="https://github.com/user-attachments/assets/0361a04e-a224-48c8-9b6f-c9e84c8c5481" />
+
 
 ## MODEL GRAPH:
 ## LOW_PASS
+<img width="1280" height="826" alt="image" src="https://github.com/user-attachments/assets/43ccca59-d691-43dc-8cb0-6437f976ff2f" />
+
 ## HIGH-PASS
+<img width="1204" height="671" alt="image" src="https://github.com/user-attachments/assets/d7e9553d-4955-40ea-89bf-a3ae9d2da9a4" />
+
 ## BAND-PASS
+<img width="1280" height="646" alt="image" src="https://github.com/user-attachments/assets/33c9259b-770f-48b4-8368-7f5bda8a52e6" />
+
 
 ## PROCEDURE - (LPF & HPF): 
 1. Connect the circuit as shown in the circuit diagram. 
@@ -85,20 +96,27 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
                  Let  Ri = Rf = 10 KΩ
 ## TABULATION:
 ## LOW_PASS
+<img width="1035" height="922" alt="image" src="https://github.com/user-attachments/assets/3f42cc36-bf85-4aec-8f8f-7ed29dca1ee2" />
+
 ## HIGH-PASS
+<img width="1280" height="1100" alt="image" src="https://github.com/user-attachments/assets/78a0354e-e9f4-496a-9314-eb5c28f4865a" />
+
 ## BAND-PASS
-## CALCULATIONS:
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+<img width="1280" height="950" alt="image" src="https://github.com/user-attachments/assets/edc8ec33-bf66-45de-856e-0a7b5f5b93c9" />
+
+
 ## GRAPH:
 ## LOW_PASS
+![514845323-803ddf42-7253-474d-8eac-1f3e6ec8da97](https://github.com/user-attachments/assets/568ce42f-d2b2-4add-96b9-96c97dc983f4)
+
 ## HIGH-PASS
+![514845344-2590d026-4895-4166-9295-43d5e65894ec](https://github.com/user-attachments/assets/ecf5a2e5-5a4a-4953-80cc-bc583629734a)
+
 ## BAND-PASS
+![514845364-7015d91c-c076-4084-9237-4ea54c424e18](https://github.com/user-attachments/assets/fac62900-8ded-4646-ab9a-fc34de606003)
+
  ## RESULTS:
-Thus an Active Low pass, High pass and Band Pass Filters are designed and 
-tested using op-amp IC 741. 
+ Thus an Active Low pass, High pass and Band Pass Filters are designed and tested using op-amp IC 741.
+
+
 
